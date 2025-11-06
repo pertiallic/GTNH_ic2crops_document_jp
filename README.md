@@ -15,9 +15,9 @@ Fiction0496(pertiallic)
 
 ## 目次
 
-1. [用意する道具](.\documents\用意する道具.md)
-2. [作物](.\documents\作物.md)
-    1. [作物の例](.\documents\作物.md#作物の例)
+1. [用意する道具](./documents/用意する道具.md)
+2. [作物](./documents/作物.md)
+    1. [作物の例](./documents/作物.md#作物の例)
 
 ## 更新履歴
 
@@ -36,4 +36,5 @@ Fiction0496(pertiallic)
 更新：**2025/11/5**
 
 -ドキュメントの作成
+
 
