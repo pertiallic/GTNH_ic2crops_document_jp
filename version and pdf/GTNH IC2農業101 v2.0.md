@@ -39,7 +39,7 @@ Fiction0496(pertiallic)
 * Weed-EX：しばらく雑草を出なくできます。
 
 <figure>
-    <img src="./images/items.png"
+    <img src="../images/items.png"
          alt="アイテム達">
     <figcaption>左から Crop, Plant Lens, Hydration Cell, Fertilizer, Spade, Weeding Trowel, Weed-EX</figcaption>
 </figure>
@@ -55,7 +55,7 @@ Fiction0496(pertiallic)
 水やりや肥料はしばらくしたら効果がなくなるので定期的に水やりしたり肥料を与えたりしてください。
 
 <figure>
-    <img src="./images/crop_placed.png"
+    <img src="../images/crop_placed.png"
          alt="Cropが設置されている画像">
     <figcaption>設置されたCrop</figcaption>
 </figure>
@@ -95,7 +95,7 @@ SpadeかWeeding Trowelで右クリックすると雑草を抜くことができ�
 雑草が生えているCropを壊してもいいです。
 
 <figure>
-    <img src="./images/weed.png"
+    <img src="../images/weed.png"
          alt="雑草">
     <figcaption>設置されたCropに生えている雑草</figcaption>
 </figure>
